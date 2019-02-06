@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Boudouar</string>
+    <string name="name1">Objects Detection</string>
+    <string name="action_settings">Object Detection</string>
+    <string name="face">Face Detection</string>
+    <string name="ocr">OCR</string>
+</resources>
